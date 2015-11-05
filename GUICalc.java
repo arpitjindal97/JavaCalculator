@@ -2,7 +2,7 @@ import java.awt.*;
 import java.awt.event.*;
 import javax.swing.*;
 import java.io.*;
-public class test implements ActionListener
+public class GUICalc implements ActionListener
 {
     JLabel answer;
     JTextField tf;

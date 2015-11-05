@@ -1,5 +1,5 @@
 import java.io.*;
-class calculator1
+class CMDCalc
 {
     public static void main(String args[])throws IOException,Exception
     {
